@@ -1,4 +1,3 @@
 ## Got_TmallShoesInfo
-
-香港天猫鞋子项目
+天猫鞋子
 
